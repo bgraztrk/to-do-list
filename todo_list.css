@@ -1,0 +1,39 @@
+.container{
+    padding-top: 20px;
+}
+.input-group{
+    margin: 10px;
+}
+.card-list{
+    margin-top: 10px;
+}
+#btnDeleteAll{
+    float: right;
+    border-radius: 2px;
+    border-color: red;
+    color: red;
+    padding-bottom: 0.2px;
+    padding-top: 0.2px;
+}
+#btnDeleteAll:hover{
+    color: white;
+    background-color: red;
+}
+.delete{
+    float: right;
+}
+.mystyle{
+    text-decoration: line-through;
+    opacity: 0.8;
+}
+ul{
+    background-color:silver;
+    list-style-type: none;
+}
+ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ul li a {
+    color: red;
+}
